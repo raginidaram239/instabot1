@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'MyInstaBot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E69D5FDD5FE44B57ACAEA6B4DAAA24A2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43721BA1F8024B31A0FC1CD06D722FDD }}
